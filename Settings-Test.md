@@ -22,7 +22,7 @@ This section describes BriteDocs settings in BriteDocs. There are three main tas
 
 #  Turn on Document Generation
 
-			![Image of Figure 1](Figure1 Settings.jpg)
+			![Image of Figure 1](https://github.com/Maliha-Balala/hello-world/blob/master/Figure1%20Settings.jpg)
 
 
 To turn on Document Generation:
