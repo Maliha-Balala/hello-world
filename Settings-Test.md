@@ -6,9 +6,6 @@ permalink: /britedocs-workflow--settings-test/
 source-id: 1Xh930Z7ZKkIYehXWrS4TZdSBy4vufYzAoDRJ-UWAApE
 published: true
 ---
-BriteDocs Workflows and Tasks
-
-Settings 
 
 # Settings Overview
 
@@ -21,10 +18,6 @@ This section describes BriteDocs settings in BriteDocs. There are three main tas
 3. Associate BriteDocs deliverables to BriteCore
 
 #  Turn on Document Generation
-
-<img src="Figure1 settings.jpg">
-
-![test figure 1 ](figure1 settings.jopg)
 			
 ![Screenshot](renametemplate6.jpg)
 
