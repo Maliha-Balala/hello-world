@@ -123,3 +123,4 @@ To associate a Document in BriteCore:
 
 3. Click **Associate.** 
 
+test
