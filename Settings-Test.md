@@ -17,11 +17,11 @@ This section describes BriteDocs settings in BriteDocs. There are three main tas
 
 3. Associate BriteDocs deliverables to BriteCore
 
-#  Turn on Document Generation
+#  Enable Document Generation
 			
 ![Screenshot](renametemplate6.jpg)
 
-To turn on Document Generation:
+## To turn on Document Generation
 
 1. In the BriteCore sidebar, click **Settings**. 
 
@@ -123,4 +123,4 @@ To associate a Document in BriteCore:
 
 3. Click **Associate.** 
 
-test
+testtest
