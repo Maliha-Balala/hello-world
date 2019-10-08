@@ -26,7 +26,7 @@ This section describes BriteDocs settings in BriteDocs. There are three main tas
 
 ![test figure 1 ](figure1 settings.jopg)
 			
-
+![Screenshot](renametemplate6.jpg)
 
 To turn on Document Generation:
 
