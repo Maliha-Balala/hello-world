@@ -1,5 +1,5 @@
 Hello World 
-| Available Function | Tag                                      | Description                                                                                                                                                                                         |
+| Available Function | ``` Tag  ```                                     | Description                                                                                                                                                                                         |
 |--------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | include            | ```{{ include() }}```                    | Includes a template such as Default Header, Default Footer, and Signature.                                                                                                                          |
 | asset              | ```{%asset assetname %}```               | Includes an existing asset such as a Company Logo.                                                                                                                                                  |
