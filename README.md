@@ -7,5 +7,5 @@
 |get field answer| ```{{{{ get_field_answer(,)}}()}} ```|Loads the value of any field.|
 
 
-./add reusable components to a template
+./add reusable components to a template.md
 
